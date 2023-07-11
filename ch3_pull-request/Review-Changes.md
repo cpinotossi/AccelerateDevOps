@@ -1,4 +1,4 @@
-# Review changes
+# Review the changes
 
 This is the hands-on part in chapter 3 for reviewing changes - especially making suggestions.
 
